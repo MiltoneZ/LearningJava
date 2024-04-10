@@ -21,7 +21,10 @@ public class Main {
 
         // Se pueden convertir diferentes tipos de datos en otro, pero para ello.
         // Se necesita revisar las tablas de conversiones de tipos de datos.
+
         int clasificacion = (int) (media / 2);
         System.out.println("Estrellas: " + clasificacion);
+
+
     }
 }
