@@ -4,7 +4,9 @@ public class Decisiones {
         boolean incluidoEnElPlan = true;
         double notaDeLaPelicula = 8.2;
         String tipoPlan = "plus";
+
         // Codigo que prueba los operadores relacionales
+
         if (fechaDeLanzamiento >= 2022){
             System.out.println("La peliculas mas populares");
         } else {
